@@ -5,6 +5,8 @@
 
 * Alguns jogos bem simples criados em Python por min, no caso adivinhação, JO KEN PÔ, e Par Ou Impar, bem básicos, mas que valem de aprendizado;
 
+* Uma Calculadora simples criada em JavaScript, HTML e CSS;
+
 Bom é só o começo, mas logo preencherei com mais projetos 😅 😉
 
 ***
@@ -14,5 +16,7 @@ Here I post some personal public projects:
 * A simple Library System made in java, for the registration of customers, books and employees, also has a tool for the loan of books, for security, secondary authentication tool, among others, which a simple library system is capable of. to do;
 
 * Some very simple games created in Python for min, in this case guessing, JO KEN PÔ, and Par Or Odd, very basic, but worth learning;
+
+* A simple Calculator created in JavaScript, HTML and CSS;
 
 Well it's just the beginning, but soon I'll fill in more projects 😅 😉
