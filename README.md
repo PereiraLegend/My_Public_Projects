@@ -7,6 +7,8 @@
 
 * Uma Calculadora simples criada em JavaScript, HTML e CSS;
 
+* Um programa em Python usando interface gráfica para a geração de arquivos lista básico;
+
 Bom é só o começo, mas logo preencherei com mais projetos 😅 😉
 
 ***
@@ -18,5 +20,7 @@ Here I post some personal public projects:
 * Some very simple games created in Python for min, in this case guessing, JO KEN PÔ, and Par Or Odd, very basic, but worth learning;
 
 * A simple Calculator created in JavaScript, HTML and CSS;
+
+* A Python program using a GUI for generating basic list files;
 
 Well it's just the beginning, but soon I'll fill in more projects 😅 😉
