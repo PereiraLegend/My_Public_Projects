@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="glut.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="Pong.c" Top="Yes" Tabpos="2" TopLine="1">
+			<Cursor Line="4" Column="18"/>
+		</File>
+	</Files>
+</Layout>
