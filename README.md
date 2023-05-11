@@ -9,6 +9,8 @@
 
 * Um programa em Python usando interface gráfica para a geração de arquivos lista básico;
 
+* O Jogo Lendário chamado Pong Feito em C utilizando Open Gl feito por min;
+
 Bom é só o começo, mas logo preencherei com mais projetos 😅 😉
 
 ***
@@ -22,5 +24,7 @@ Here I post some personal public projects:
 * A simple Calculator created in JavaScript, HTML and CSS;
 
 * A Python program using a GUI for generating basic list files;
+
+* The Legendary Game called Pong Made in C using Open Gl made by me;
 
 Well it's just the beginning, but soon I'll fill in more projects 😅 😉
