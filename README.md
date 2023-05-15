@@ -11,7 +11,7 @@
 
 * O Jogo Lendário chamado Pong Feito em C utilizando Open Gl feito por min ( [Dowload](https://drive.google.com/drive/folders/17aAurimGW41IlDgTd5z2TArB5bAaaIzO?usp=share_link) );
 
-* O jogo Pong novamente, só que dessa vez criado em C# utilizando opentk
+* O jogo Pong novamente, só que dessa vez criado em C# utilizando opentk;
 
 Bom é só o começo, mas logo preencherei com mais projetos 😅 😉
 
@@ -28,5 +28,7 @@ Here I post some personal public projects:
 * A Python program using a GUI for generating basic list files;
 
 * The Legendary Game called Pong Made in C using Open Gl made by me ( [Dowload](https://drive.google.com/drive/folders/17aAurimGW41IlDgTd5z2TArB5bAaaIzO?usp=share_link) );
+
+* The Pong game again, this time created in C# using opentk;
 
 Well it's just the beginning, but soon I'll fill in more projects 😅 😉
