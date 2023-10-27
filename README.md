@@ -13,7 +13,9 @@
 
 * O jogo Pong novamente, só que dessa vez criado em C# utilizando opentk;
 
-Bom é só o começo, mas logo preencherei com mais projetos 😅 😉
+* Um detector de rostos de objetos através da webcam, onde aplico o "básico da visão computacional";
+
+Bom é só o começo, mas logo preencherei com mais projetos 😅 😉, se quiser ver o que estou fazendo atualmente acesse ( [minhas anotações](https://github.com/PereiraLegend/Anotacoes) );
 
 ***
 
@@ -31,4 +33,6 @@ Here I post some personal public projects:
 
 * The Pong game again, this time created in C# using opentk;
 
-Well it's just the beginning, but soon I'll fill in more projects 😅 😉
+* An object face detector through the webcam, where I apply the "basics of computer vision";
+
+Well it's just the beginning, but soon I'll fill in more projects 😅 😉, if you want to see what I'm currently doing, go to ( [my notes](https://github.com/PereiraLegend/Anotacoes) );
