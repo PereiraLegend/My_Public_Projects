@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/teste.css">
+  <title>Lista de Produtos</title>
+</head>
+<body>
+
+  <h2>Lista de Produtos</h2>
+
+  <form id="formularioProduto">
+    <label for="nomeProduto">Nome do Produto:</label>
+    <input type="text" id="nomeProduto" required>
+
+    <label for="tipoProduto">Tipo do Produto:</label>
+    <input type="text" id="tipoProduto" required>
+
+    <label for="categoriaProduto">Categoria do Produto:</label>
+    <input type="text" id="categoriaProduto" required>
+
+    <label for="observacaoProduto">Observação do Produto:</label>
+    <input type="text" id="observacaoProduto">
+
+    <button type="submit">Adicionar Produto</button>
+  </form>
+
+  <table id="produtoTable">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nome do Produto</th>
+        <th>Tipo do Produto</th>
+        <th>Categoria do Produto</th>
+        <th>Observação do Produto</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody id="produtoBody">
+      <!-- Dados da tabela serão inseridos aqui dinamicamente -->
+    </tbody>
+  </table>
+  
+  <!--Modal Editar-->
+  <div class="overlay" id="overlay" onclick="fecharModalEditar()"></div>
+  <div class="modal" id="modal">
+    <h2>Preencha os Campos para editar o item <span id="editartxt"></span></h2>
+    <input id="nomeEditar" type="text" placeholder="Nome">
+    <input id="tipoEditar" type="text" placeholder="Tipo">
+    <input id="categoriaEditar" type="text" placeholder="Categoria">
+    <input id="observacaoEditar" type="text" placeholder="Observação">
+    <button onclick="editarProduto()">Enviar</button>
+    <button onclick="fecharModalEditar()">Fechar</button>
+  </div>
+
+  <script src="./js/teste.js"></script>
+</body>
+</html>
