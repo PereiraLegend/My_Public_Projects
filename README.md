@@ -15,6 +15,12 @@
 
 * Um detector de rostos de objetos através da webcam, onde aplico o "básico da visão computacional";
 
+* Uma Api usada para implementar um sistema de CRUD
+
+* Um FrontEnd de um ecommerce de roupas criado utilizando o Nextjs
+
+* Um FrontEnd de um ecommerce de nóveis criado utilizando o Nextjs
+
 Bom é só o começo, mas logo preencherei com mais projetos 😅 😉, se quiser ver o que estou fazendo atualmente acesse ( [minhas anotações](https://github.com/PereiraLegend/Anotacoes) );
 
 ***
@@ -34,5 +40,11 @@ Here I post some personal public projects:
 * The Pong game again, this time created in C# using opentk;
 
 * An object face detector through the webcam, where I apply the "basics of computer vision";
+
+* An Api used to implement a CRUD system
+
+* A FrontEnd of a clothing ecommerce created using Nextjs
+
+* A FrontEnd of a node ecommerce created using Nextjs
 
 Well it's just the beginning, but soon I'll fill in more projects 😅 😉, if you want to see what I'm currently doing, go to ( [my notes](https://github.com/PereiraLegend/Anotacoes) );
